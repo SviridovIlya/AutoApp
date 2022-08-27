@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DolbanyUjas2</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="logo_of_app_1">Автохлама.</string>
+    <string name="logo_of_app_2">NET</string>
+    <string name="type_description_of_product">марка и модель:</string>
+    <string name="type_price_of_product">цена:</string>
+    <string name="description_of_product">Nissan Primera II (P11), 1.6</string>
+    <string name="price_of_product">3 500 ₽</string>
+    <string name="course_desc">Радиатор для Nissan Primera II (P11), 1.6. В хорошем состоянии, не пробит. 3 500 рублей</string>
+</resources>
